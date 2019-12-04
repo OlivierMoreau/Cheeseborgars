@@ -1,0 +1,62 @@
+
+html, body{
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.vert {
+
+    height: 300px;
+    width: 200px;
+}
+
+.hor {
+
+    height: 200px;
+    width: 300px;
+}
+
+.imgCont{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#meaniesTitle{
+    padding:2em;
+    background-color: #f7838b;
+    border: 1px solid black;
+}
+
+.imgIngdredients{
+    border-width :15px !important;
+}
+
+.ingredientsText{
+    font-size: 2em;
+    margin-top: 98px;
+    margin-left: 1em;
+}
+
+#containerHeaven{
+    background : url(media/heaven.gif) repeat;
+    height: 100%;
+    min-height: 100%;
+}
+
+.mainHeaven{
+    height: 100%;
+    min-height: 100%;
+}
